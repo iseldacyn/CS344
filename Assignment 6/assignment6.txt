@@ -1,0 +1,8 @@
+Initial array: 0123456789
+
+1.  After inserting all elements into a heap:   9 8 6 7 4 5 2 0 3 1
+
+2A.  Heap Sort initial heap:                    9 8 6 7 4 5 2 0 3 1 (same as heap above)
+2B.  After moving 9 and sinking:                8 7 6 3 4 5 2 0 1 9
+2C.  After moving 8 and sinking:                7 4 6 3 1 5 2 0 8 9
+2D.  After moving 7 and sinking:                6 4 5 3 1 0 2 7 8 9
